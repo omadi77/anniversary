@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(red,orange,yellow,green,blue,indigo,violet);
+
+}
+
+h1,h2,h3{
+    display: inline;
+}
